@@ -1,3 +1,10 @@
+---
+layout: default
+title: privacy-frameworks
+nav_order: 1
+has_children: false
+---
+
 # Privacy related frameworks
 
 The following tools/frameworks could be leveraged when data analysis or model development needs to take place on private data.

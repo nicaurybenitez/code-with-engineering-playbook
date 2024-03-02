@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Synthetic Monitoring Tests
 
 Synthetic Monitoring Tests are a set of functional tests that target a live system in production. The focus of these tests, which are sometimes named "watchdog", "active monitoring" or "synthetic transactions", is to verify the product's health and resilience continuously.

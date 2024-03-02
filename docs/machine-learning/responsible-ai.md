@@ -1,3 +1,10 @@
+---
+layout: default
+title: responsible-ai
+nav_order: 1
+has_children: false
+---
+
 # Responsible AI in ISE
 
 ## Microsoft's Responsible AI principles

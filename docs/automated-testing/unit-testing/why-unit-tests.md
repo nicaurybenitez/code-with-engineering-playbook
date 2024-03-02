@@ -1,3 +1,10 @@
+---
+layout: default
+title: why-unit-tests
+nav_order: 1
+has_children: false
+---
+
 # Why Unit Tests
 
 It is no secret that writing unit tests is hard, and even harder to write well. Writing unit tests also increases the

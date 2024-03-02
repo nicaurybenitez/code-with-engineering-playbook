@@ -1,3 +1,10 @@
+---
+layout: default
+title: save-output-to-variable-group
+nav_order: 1
+has_children: false
+---
+
 # Save terraform output to a variable group (Azure DevOps)
 
 This recipe applies only to [terraform](https://www.terraform.io/) usage with Azure DevOps. It assumes your familiar with terraform commands and Azure Pipelines.

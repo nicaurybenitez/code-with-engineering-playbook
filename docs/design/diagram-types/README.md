@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Diagram Types
 
 Creating and maintaining diagrams is a challenge for any team. Common reasons across these challenges include:

@@ -1,3 +1,10 @@
+---
+layout: default
+title: client-app-inner-loop
+nav_order: 1
+has_children: false
+---
+
 # Separating client apps from the services they consume during development
 
 Client Apps typically rely on remote services to power their apps.

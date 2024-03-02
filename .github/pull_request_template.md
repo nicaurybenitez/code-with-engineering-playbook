@@ -1,3 +1,10 @@
+---
+layout: default
+title: pull_request_template
+nav_order: 1
+has_children: false
+---
+
 # Pull Request Template
 
 ## What are you trying to address

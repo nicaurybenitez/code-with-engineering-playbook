@@ -1,3 +1,10 @@
+---
+layout: default
+title: dashboard
+nav_order: 1
+has_children: false
+---
+
 # Dashboard
 
 ## Overview

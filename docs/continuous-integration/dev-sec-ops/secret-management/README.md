@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Secret management
 
 Secret Management refers to the tools and practices used to manage digital authentication credentials (like API keys, tokens, passwords, and certificates). These secrets are used to protect access to sensitive data and services, making their management critical for security.

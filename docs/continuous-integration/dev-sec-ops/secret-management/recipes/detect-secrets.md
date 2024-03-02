@@ -1,3 +1,10 @@
+---
+layout: default
+title: detect-secrets
+nav_order: 1
+has_children: false
+---
+
 # Credential Scanning Tool: detect-secrets
 
 ## Background

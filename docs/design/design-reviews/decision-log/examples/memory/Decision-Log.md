@@ -1,3 +1,10 @@
+---
+layout: default
+title: Decision-Log
+nav_order: 1
+has_children: false
+---
+
 # Decision Log
 
 This document is used to track key decisions that are made during the course of the project.

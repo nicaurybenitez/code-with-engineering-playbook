@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Continuous delivery on low-code and no-code solutions
 
 Low-code and no-code platforms have taken a spot in a wide variety of Business Solutions involving process automation, AI models, Bots, Business Applications and Business Intelligence. The scenarios enabled by these platforms are constantly evolving and opening a spot for productive roles. This has been exactly the reason why bringing more professional tools to their development have become necessary such as controlled and automated delivery.

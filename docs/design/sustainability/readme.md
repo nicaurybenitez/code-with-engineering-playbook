@@ -1,3 +1,10 @@
+---
+layout: default
+title: readme
+nav_order: 1
+has_children: false
+---
+
 # Sustainable Software Engineering
 
 The choices made throughout the engineering process regarding cloud services, software architecture design and automation can have a big impact on the carbon footprint of a solution.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-profiling
+nav_order: 1
+has_children: false
+---
+
 # Profiling Machine Learning and MLOps Code
 
 Data Science projects, especially the ones that involve Deep Learning techniques, usually are resource intensive. One model training iteration might be multiple hours long. Although large data volumes processing genuinely takes time, minor bugs and suboptimal implementation of some functional pieces might cause extra resources consumption.

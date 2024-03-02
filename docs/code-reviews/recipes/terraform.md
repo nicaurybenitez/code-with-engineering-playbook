@@ -1,3 +1,10 @@
+---
+layout: default
+title: terraform
+nav_order: 1
+has_children: false
+---
+
 # Terraform Code Reviews
 
 ## Style Guide
@@ -39,29 +46,43 @@ cd "$SCRIPT_DIR"
 TF_VERSION=0.12.4
 TF_LINT_VERSION=0.9.1
 
-echo -e "\n\n>>> Installing Terraform 0.12"
+echo -e "
+
+>>> Installing Terraform 0.12"
 # Install terraform tooling for linting terraform
 wget -q https://releases.hashicorp.com/terraform/${TF_VERSION}/terraform_${TF_VERSION}_linux_amd64.zip -O /tmp/terraform.zip
 sudo unzip -q -o -d /usr/local/bin/ /tmp/terraform.zip
 
 echo ""
-echo -e "\n\n>>> Install tflint (3rd party)"
+echo -e "
+
+>>> Install tflint (3rd party)"
 wget -q https://github.com/wata727/tflint/releases/download/v${TF_LINT_VERSION}/tflint_linux_amd64.zip -O /tmp/tflint.zip
 sudo unzip -q -o -d /usr/local/bin/ /tmp/tflint.zip
 
-echo -e "\n\n>>> Terraform version"
+echo -e "
+
+>>> Terraform version"
 terraform -version
 
-echo -e "\n\n>>> Terraform Format (if this fails use 'terraform fmt -recursive' command to resolve"
+echo -e "
+
+>>> Terraform Format (if this fails use 'terraform fmt -recursive' command to resolve"
 terraform fmt -recursive -diff -check
 
-echo -e "\n\n>>> tflint"
+echo -e "
+
+>>> tflint"
 tflint
 
-echo -e "\n\n>>> Terraform init"
+echo -e "
+
+>>> Terraform init"
 terraform init
 
-echo -e "\n\n>>> Terraform validate"
+echo -e "
+
+>>> Terraform validate"
 terraform validate
 ```
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Agile Development advanced topics
 
 Documentation that help you going beyond the basics and core expectations.

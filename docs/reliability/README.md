@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Reliability
 
 All the other ISE Engineering Fundamentals work towards a more reliable infrastructure. Automated integration and deployment ensures code is properly tested, and helps remove human error, while slow releases build confidence in the code. Observability helps more quickly pinpoint errors when they arise to get back to a stable state, and so on.

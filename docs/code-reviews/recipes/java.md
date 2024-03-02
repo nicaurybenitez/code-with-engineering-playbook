@@ -1,3 +1,10 @@
+---
+layout: default
+title: java
+nav_order: 1
+has_children: false
+---
+
 # Java Code Reviews
 
 ## Java Style Guide

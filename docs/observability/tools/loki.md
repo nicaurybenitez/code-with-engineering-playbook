@@ -1,3 +1,10 @@
+---
+layout: default
+title: loki
+nav_order: 1
+has_children: false
+---
+
 # Loki
 
 Loki is a horizontally-scalable, highly-available, multi-tenant log aggregation system, created by Grafana

@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Tools and Patterns
 
 There are a number of modern tools to make systems observable. While identifying and/or creating tools that work for your system, here are a few things to consider to help guide the choices.

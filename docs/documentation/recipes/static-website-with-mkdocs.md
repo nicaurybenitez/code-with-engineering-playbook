@@ -1,3 +1,10 @@
+---
+layout: default
+title: static-website-with-mkdocs
+nav_order: 1
+has_children: false
+---
+
 # How to create a static website for your documentation based on mkdocs and mkdocs-material
 
 [MkDocs](https://www.mkdocs.org/) is a tool built to create static websites from raw markdown files. Other alternatives include [Sphinx](https://www.sphinx-doc.org/en/master/), and [Jekyll](https://jekyllrb.com/).

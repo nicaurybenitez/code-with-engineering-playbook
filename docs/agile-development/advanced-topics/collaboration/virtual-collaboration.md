@@ -1,3 +1,10 @@
+---
+layout: default
+title: virtual-collaboration
+nav_order: 1
+has_children: false
+---
+
 # Virtual Collaboration and Pair Programming
 
 Pair programming is the de facto work method that most large engineering organizations use for “hands on keyboard” coding. Two developers, working synchronously, looking at the same screen and attempting to code and design together, which often results in better and clearer code than either could produce individually.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: observability-as-code
+nav_order: 1
+has_children: false
+---
+
 # Observability as Code
 
 As much as possible, configuration and management of observability assets such as cloud resource provisioning, monitoring alerts and dashboards must be managed as code. Observability as Code is achieved using any one of Terraform / Ansible / ARM Templates

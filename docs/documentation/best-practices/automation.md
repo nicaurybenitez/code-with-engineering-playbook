@@ -1,3 +1,10 @@
+---
+layout: default
+title: automation
+nav_order: 1
+has_children: false
+---
+
 # Replacing Documentation with Automation
 
 You can document how to set up your dev machine with the right version of the framework required to run the code, which extensions are useful to develop the application with your editor, or how to configure your editor to launch and debug the application. If it is possible, a better solution is to provide the means to automate tool installs, application startup, etc., instead.

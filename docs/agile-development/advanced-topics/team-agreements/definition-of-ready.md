@@ -1,3 +1,10 @@
+---
+layout: default
+title: definition-of-ready
+nav_order: 1
+has_children: false
+---
+
 # Definition of Ready
 
 When the development team picks a user story from the top of the backlog, the user story needs to have enough detail to estimate the work needed to complete the story within the sprint. If it has enough detail to estimate, it is Ready to be developed.

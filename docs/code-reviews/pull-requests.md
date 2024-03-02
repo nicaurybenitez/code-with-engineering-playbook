@@ -1,3 +1,10 @@
+---
+layout: default
+title: pull-requests
+nav_order: 1
+has_children: false
+---
+
 # Pull Requests
 
 Changes to any main codebase - main branch in Git repository, for example - must be done using pull requests (PR).

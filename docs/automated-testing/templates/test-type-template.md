@@ -1,3 +1,10 @@
+---
+layout: default
+title: test-type-template
+nav_order: 1
+has_children: false
+---
+
 # Insert Test Technique Name Here
 
 Put a 2-3 sentence overview about the test technique here.

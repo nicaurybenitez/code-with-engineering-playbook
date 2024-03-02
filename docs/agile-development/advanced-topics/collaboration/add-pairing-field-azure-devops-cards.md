@@ -1,3 +1,10 @@
+---
+layout: default
+title: add-pairing-field-azure-devops-cards
+nav_order: 1
+has_children: false
+---
+
 # How to add a Pairing Custom Field in Azure DevOps User Stories
 
 This document outlines the benefits of adding a custom field of type _Identity_ in [Azure DevOps](https://learn.microsoft.com/en-us/azure/devops/user-guide/what-is-azure-devops) user stories, prerequisites, and a step-by-step guide.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: share-common-variables-naming-conventions
+nav_order: 1
+has_children: false
+---
+
 # Sharing Common Variables / Naming Conventions Between Terraform Modules
 
 ## What are we trying to solve?

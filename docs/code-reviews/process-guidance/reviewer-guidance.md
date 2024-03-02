@@ -1,3 +1,10 @@
+---
+layout: default
+title: reviewer-guidance
+nav_order: 1
+has_children: false
+---
+
 # Reviewer Guidance
 
 Since parts of reviews can be automated via linters and such, human reviewers can focus on architectural and functional correctness. Human reviewers should focus on:

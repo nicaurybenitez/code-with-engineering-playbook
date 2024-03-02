@@ -1,3 +1,10 @@
+---
+layout: default
+title: azure-pipelines-yaml
+nav_order: 1
+has_children: false
+---
+
 # YAML(Azure Pipelines) Code Reviews
 
 ## Style Guide

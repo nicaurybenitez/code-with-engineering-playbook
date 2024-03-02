@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Machine Learning Fundamentals at ISE
 
 This guideline documents the Machine Learning (ML) practices in ISE. ISE works with customers on developing ML models and putting them in production, with an emphasis on engineering and research best practices throughout the project's life cycle.

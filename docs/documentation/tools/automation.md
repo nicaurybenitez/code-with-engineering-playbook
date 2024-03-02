@@ -1,3 +1,10 @@
+---
+layout: default
+title: automation
+nav_order: 1
+has_children: false
+---
+
 # How to Automate Simple Checks
 
 If you want to automate some checks on your Markdown documents, there are several tools that you could leverage. For example:

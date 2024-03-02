@@ -1,3 +1,10 @@
+---
+layout: default
+title: object-oriented-design-reference
+nav_order: 1
+has_children: false
+---
+
 # Object-Oriented Design Reference
 
 When writing software for large projects, the hardest part is often communication and maintenance.

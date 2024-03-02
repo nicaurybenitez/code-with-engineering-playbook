@@ -1,3 +1,10 @@
+---
+layout: default
+title: CICD
+nav_order: 1
+has_children: false
+---
+
 # Continuous Integration and Delivery
 
 Continuous Integration is the engineering practice of frequently committing code in a shared repository, ideally several times a day, and performing an automated build on it. These changes are built with other simultaneous changes to the system, which enables early detection of integration issues between multiple developers working on a project. Build breaks due to integration failures are treated as the highest priority issue for all the developers on a team and generally work stops until they are fixed.

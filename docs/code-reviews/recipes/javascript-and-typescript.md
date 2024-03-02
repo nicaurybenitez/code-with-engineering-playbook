@@ -1,3 +1,10 @@
+---
+layout: default
+title: javascript-and-typescript
+nav_order: 1
+has_children: false
+---
+
 # JavaScript/TypeScript Code Reviews
 
 ## Style Guide

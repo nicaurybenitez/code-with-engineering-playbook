@@ -1,3 +1,10 @@
+---
+layout: default
+title: gauge-framework
+nav_order: 1
+has_children: false
+---
+
 # Gauge Framework
 
 Gauge is a free and open source framework for writing and running E2E tests. Some key features of Gauge that makes it unique include:

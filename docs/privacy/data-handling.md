@@ -1,3 +1,10 @@
+---
+layout: default
+title: data-handling
+nav_order: 1
+has_children: false
+---
+
 # Privacy and Data
 
 ## Goal

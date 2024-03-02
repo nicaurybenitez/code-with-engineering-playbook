@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Using Azurite to Run Blob Storage Tests in a Pipeline
 
 This document determines the approach for writing automated tests with a short feedback loop (i.e. unit tests) against security considerations (private endpoints) for the Azure Blob Storage functionality.
@@ -30,7 +37,7 @@ npm install -g azurite
 mkdir c:/azurite
 
 # Launch Azurite for Windows
-azurite --silent --location c:\azurite --debug c:\azurite\debug.log
+azurite --silent --location c:zurite --debug c:zurite\debug.log
 ```
 
 If you want to avoid any disk persistence and destroy the test data when the Azurite process terminates, you can pass the `--inMemoryPersistence` option, as of Azurite 3.28.0.
@@ -82,7 +89,7 @@ Python 3.8.7 is used for this, but it should be fine on other 3.x versions as we
    # Create azurite directory
    mkdir c:/azurite
    # Launch Azurite for Windows
-   azurite --silent --location c:\azurite --debug c:\azurite\debug.log
+   azurite --silent --location c:zurite --debug c:zurite\debug.log
    ```
 
    Option 2: using docker

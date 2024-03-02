@@ -1,3 +1,10 @@
+---
+layout: default
+title: SPRINT-STRUCTURE
+nav_order: 1
+has_children: false
+---
+
 # Structure of a Sprint
 
 The purpose of this document is to:

@@ -1,3 +1,10 @@
+---
+layout: default
+title: correlation-id
+nav_order: 1
+has_children: false
+---
+
 # Correlation IDs
 
 ## The Need

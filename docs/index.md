@@ -1,3 +1,10 @@
+---
+layout: default
+title: index
+nav_order: 1
+has_children: false
+---
+
 # ISE Engineering Fundamentals Playbook
 
 An engineer working for a [ISE](ISE.md) project...

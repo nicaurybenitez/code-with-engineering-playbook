@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-proposed-process
+nav_order: 1
+has_children: false
+---
+
 # Proposed ML Process
 
 ## Introduction

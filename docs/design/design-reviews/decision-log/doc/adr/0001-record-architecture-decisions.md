@@ -1,3 +1,10 @@
+---
+layout: default
+title: 0001-record-architecture-decisions
+nav_order: 1
+has_children: false
+---
+
 # 1. Record architecture decisions
 
 Date: 2020-03-20

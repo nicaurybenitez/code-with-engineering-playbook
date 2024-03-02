@@ -1,3 +1,10 @@
+---
+layout: default
+title: readme
+nav_order: 1
+has_children: false
+---
+
 # Design
 
 Designing software well is hard.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Data Science Pipeline
 
 As Azure DevOps doesn't allow code reviewers to comment directly in Jupyter Notebooks, Data Scientists(DSs) have

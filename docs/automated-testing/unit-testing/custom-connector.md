@@ -1,3 +1,10 @@
+---
+layout: default
+title: custom-connector
+nav_order: 1
+has_children: false
+---
+
 # Custom Connector Testing
 
 When developing Custom Connectors to put data into the Power Platform there are some strategies you can follow:

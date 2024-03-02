@@ -1,3 +1,10 @@
+---
+layout: default
+title: cross-platform-tasks
+nav_order: 1
+has_children: false
+---
+
 # Cross Platform Tasks
 
 There are several options to alleviate cross-platform compatibility issues.
@@ -28,7 +35,7 @@ The example below offers insight into running Node.js executable as a command wi
   "label": "Run Node",
   "type": "process",
   "windows": {
-    "command": "C:\\Program Files\\nodejs\\node.exe"
+    "command": "C:\Program Files\nodejs\node.exe"
   },
   "linux": {
     "command": "/usr/bin/node"
@@ -51,7 +58,7 @@ Not all scripts or tasks can be auto-detected in the workspace. It may be necess
       "type": "shell",
       "command": "./scripts/test.sh",
       "windows": {
-        "command": ".\\scripts\\test.cmd"
+        "command": ".\scripts\test.cmd"
       },
       "group": "test",
       "presentation": {

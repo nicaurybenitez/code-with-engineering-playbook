@@ -1,3 +1,10 @@
+---
+layout: default
+title: detect-secrets-ado
+nav_order: 1
+has_children: false
+---
+
 # Running detect-secrets in Azure DevOps Pipelines
 
 ## Overview

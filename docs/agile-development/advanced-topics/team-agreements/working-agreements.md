@@ -1,3 +1,10 @@
+---
+layout: default
+title: working-agreements
+nav_order: 1
+has_children: false
+---
+
 # Sections of a Working Agreement
 
 A working agreement is a document, or a set of documents that describe how we work together as a team and what our

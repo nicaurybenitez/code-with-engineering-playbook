@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Observability
 
 Building observable systems enables development teams at ISE to measure how well the application is behaving. Observability serves the following goals:

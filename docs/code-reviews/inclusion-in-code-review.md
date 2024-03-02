@@ -1,3 +1,10 @@
+---
+layout: default
+title: inclusion-in-code-review
+nav_order: 1
+has_children: false
+---
+
 # Inclusion in Code Review
 
 Below are some points which emphasize why inclusivity in code reviews is important:

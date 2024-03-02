@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Recipes
 
 - [deploy-docfx-azure-website](./deploy-docfx-azure-website.md)

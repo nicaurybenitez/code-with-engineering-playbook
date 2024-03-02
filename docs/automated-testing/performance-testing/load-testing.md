@@ -1,3 +1,10 @@
+---
+layout: default
+title: load-testing
+nav_order: 1
+has_children: false
+---
+
 # Load Testing
 
 "*Load testing is performed to determine a system's behavior under both normal and anticipated peak load conditions.*" - [Load testing - Wikipedia](https://en.wikipedia.org/wiki/Load_testing)

@@ -1,3 +1,10 @@
+---
+layout: default
+title: Data-Model
+nav_order: 1
+has_children: false
+---
+
 # Data Model
 
 ## Table of Contents

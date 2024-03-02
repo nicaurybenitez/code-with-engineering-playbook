@@ -1,3 +1,10 @@
+---
+layout: default
+title: Prometheus
+nav_order: 1
+has_children: false
+---
+
 # Prometheus
 
 ## Overview

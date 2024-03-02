@@ -1,3 +1,10 @@
+---
+layout: default
+title: terraform-structure-guidelines
+nav_order: 1
+has_children: false
+---
+
 # Guidelines on Structuring and Testing the Terraform Configuration
 
 ## Context

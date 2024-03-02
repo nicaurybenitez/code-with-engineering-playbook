@@ -1,3 +1,10 @@
+---
+layout: default
+title: faq
+nav_order: 1
+has_children: false
+---
+
 # FAQ
 
 This is a list of questions / frequently occurring issues when working with code reviews and answers how you can possibly tackle them.

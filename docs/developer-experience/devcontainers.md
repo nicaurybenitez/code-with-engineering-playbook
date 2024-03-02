@@ -1,3 +1,10 @@
+---
+layout: default
+title: devcontainers
+nav_order: 1
+has_children: false
+---
+
 # Dev Containers: Getting Started
 
 If you are a developer and have experience with Visual Studio Code (VS Code) or Docker, then it's probably time you look at [development containers](https://code.visualstudio.com/docs/remote/containers) (dev containers). This readme is intended to assist developers in the decision-making process needed to build dev containers. The guidance provided should be especially helpful if you are experiencing VS Code dev containers for the first time.

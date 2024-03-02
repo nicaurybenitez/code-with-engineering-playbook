@@ -1,3 +1,10 @@
+---
+layout: default
+title: rules-of-engagement
+nav_order: 1
+has_children: false
+---
+
 # Rules of Engagement
 
 When performing application security analysis, it is expected that the tester follow the *Rules of Engagement* as laid out below. This is to standardize the scope of application testing and provide a concrete awareness of what is considered "out of scope" for security analysis.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-model-checklist
+nav_order: 1
+has_children: false
+---
+
 # ML model production checklist
 
 The purpose of this checklist is to make sure that:

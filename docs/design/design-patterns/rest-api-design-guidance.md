@@ -1,3 +1,10 @@
+---
+layout: default
+title: rest-api-design-guidance
+nav_order: 1
+has_children: false
+---
+
 # REST API Design Guidance
 
 ## Goals

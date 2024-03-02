@@ -1,3 +1,10 @@
+---
+layout: default
+title: 0002-app-level-logging
+nav_order: 1
+has_children: false
+---
+
 # 2. App-level Logging with Serilog and Application Insights
 
 Date: 2020-04-08

@@ -1,3 +1,10 @@
+---
+layout: default
+title: naming-branches
+nav_order: 1
+has_children: false
+---
+
 # Naming branches
 
 When contributing to existing projects, look for and stick with the agreed branch naming convention. In open source projects this information is typically found in the contributing instructions, often in a file named `CONTRIBUTING.md`.

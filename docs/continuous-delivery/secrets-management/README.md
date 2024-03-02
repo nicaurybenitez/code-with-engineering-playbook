@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Secrets Management
 
 Secrets Management refers to the way in which we protect configuration settings and other sensitive data which, if

@@ -1,3 +1,10 @@
+---
+layout: default
+title: author-guidance
+nav_order: 1
+has_children: false
+---
+
 # Author Guidance
 
 ## Properly describe your pull request (PR)

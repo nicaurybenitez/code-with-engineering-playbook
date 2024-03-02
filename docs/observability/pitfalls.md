@@ -1,3 +1,10 @@
+---
+layout: default
+title: pitfalls
+nav_order: 1
+has_children: false
+---
+
 # Things to Watch for when Building Observable Systems
 
 ## Observability as an afterthought

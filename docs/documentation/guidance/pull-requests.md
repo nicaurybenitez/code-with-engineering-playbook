@@ -1,3 +1,10 @@
+---
+layout: default
+title: pull-requests
+nav_order: 1
+has_children: false
+---
+
 # Pull Requests
 
 When we create [Pull Requests](../../code-reviews/pull-requests.md), we must ensure they are properly documented:

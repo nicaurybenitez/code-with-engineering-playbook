@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Privacy fundamentals
 
 This part of the engineering playbook focuses on privacy design guidelines and principles.

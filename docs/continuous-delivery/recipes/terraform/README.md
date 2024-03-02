@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Terraform recipes
 
 - [Save output to variable group](./save-output-to-variable-group.md)

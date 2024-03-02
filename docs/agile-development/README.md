@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Agile documentation
 
 - [Agile Basics](./basics/): Learn or refresh your basic agile knowledge.

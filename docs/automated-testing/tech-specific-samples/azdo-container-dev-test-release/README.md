@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Building Containers with Azure DevOps using DevTest Pattern
 
 In this documents, we highlight learnings from applying the DevTest pattern to container development in Azure DevOps through pipelines.

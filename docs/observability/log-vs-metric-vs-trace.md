@@ -1,3 +1,10 @@
+---
+layout: default
+title: log-vs-metric-vs-trace
+nav_order: 1
+has_children: false
+---
+
 # Logs vs Metrics vs Traces
 
 ![Signals](./images/signals.png)

@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-fundamentals-checklist
+nav_order: 1
+has_children: false
+---
+
 # ML Fundamentals Checklist
 
 This checklist helps ensure that our ML projects meet our ML Fundamentals. The items below are not sequential, but rather organized by different parts of an ML project.

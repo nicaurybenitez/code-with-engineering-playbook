@@ -1,3 +1,10 @@
+---
+layout: default
+title: case-study-template
+nav_order: 1
+has_children: false
+---
+
 # ~Customer Project~ Case Study
 
 ## Background

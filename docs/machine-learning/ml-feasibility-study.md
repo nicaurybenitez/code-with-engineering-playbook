@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-feasibility-study
+nav_order: 1
+has_children: false
+---
+
 # Feasibility Studies
 
 The main goal of feasibility studies is to assess whether it is feasible to solve the problem satisfactorily using ML with the available data. We want to avoid investing too much in the solution before we have:

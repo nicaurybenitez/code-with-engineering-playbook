@@ -1,3 +1,10 @@
+---
+layout: default
+title: threat-modelling
+nav_order: 1
+has_children: false
+---
+
 # Threat Modeling
 
 Threat modeling is an effective way to help secure your systems, applications, networks, and services. It's a systematic approach that identifies potential threats and recommendations to help reduce risk and meet security objectives earlier in the development lifecycle.

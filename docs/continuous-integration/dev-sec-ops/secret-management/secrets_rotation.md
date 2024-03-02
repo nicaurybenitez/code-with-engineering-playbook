@@ -1,3 +1,10 @@
+---
+layout: default
+title: secrets_rotation
+nav_order: 1
+has_children: false
+---
+
 # Secrets Rotation
 
 Secret rotation is the process of refreshing the secrets that are used by the application.

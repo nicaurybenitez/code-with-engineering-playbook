@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-tpm-guidance
+nav_order: 1
+has_children: false
+---
+
 # TPM considerations for Machine Learning projects
 
 In this document, we explore some of the Program Management considerations for Machine Learning (ML) projects and suggest recommendations for Technical Program Managers (TPM) to effectively work with Data and Applied Machine Learning engineering teams.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: risk-management
+nav_order: 1
+has_children: false
+---
+
 # Risk Management
 
 Agile methodologies are conceived to be driven by risk management principles, but no methodology can eliminate all risks.

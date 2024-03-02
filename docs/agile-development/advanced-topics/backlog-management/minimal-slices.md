@@ -1,3 +1,10 @@
+---
+layout: default
+title: minimal-slices
+nav_order: 1
+has_children: false
+---
+
 # Minimalism Slices
 
 ## Always deliver your work using minimal valuable slices

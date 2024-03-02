@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-testing
+nav_order: 1
+has_children: false
+---
+
 # Testing Data Science and MLOps Code
 
 The purpose of this document is to provide samples of tests for the most common operations in MLOps/Data Science projects. Testing the code used for MLOps or data science projects follows the same principles of any other software project.

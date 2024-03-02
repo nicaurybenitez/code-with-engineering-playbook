@@ -1,3 +1,10 @@
+---
+layout: default
+title: teaming-up
+nav_order: 1
+has_children: false
+---
+
 # Engagement Team Development
 
 In every ISE engagement, dynamics are different so are the team requirements. Based on transfer learning among teams, we aim to build right "code-with" environments in every team.

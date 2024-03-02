@@ -1,3 +1,10 @@
+---
+layout: default
+title: authoring_example
+nav_order: 1
+has_children: false
+---
+
 # Example: Authoring a unit test
 
 To illustrate some unit testing techniques for an object-oriented language, let's start with an example of some

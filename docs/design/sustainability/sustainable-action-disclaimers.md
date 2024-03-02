@@ -1,3 +1,10 @@
+---
+layout: default
+title: sustainable-action-disclaimers
+nav_order: 1
+has_children: false
+---
+
 # Disclaimers
 
 The following disclaimers provide more details about how to consider the impact of particular actions recommended by the [Sustainable Engineering Checklist](readme.md#sustainable-engineering-checklist).

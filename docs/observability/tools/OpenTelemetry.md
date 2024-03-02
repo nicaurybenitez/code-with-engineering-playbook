@@ -1,3 +1,10 @@
+---
+layout: default
+title: OpenTelemetry
+nav_order: 1
+has_children: false
+---
+
 # Open Telemetry
 
 Building observable systems enable one to measure how well or bad the application is behaving and WHY it is behaving either way. Adopting open-source standards related to implementing telemetry and tracing features built on top of the OpenTelemetry framework helps decouple vendor-specific implementations while maintaining an extensible, standard, and portable open-source solution.

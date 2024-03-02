@@ -1,3 +1,10 @@
+---
+layout: default
+title: task-design-review-template
+nav_order: 1
+has_children: false
+---
+
 # Your Task Design Title Here (prefix with DRAFT/WIP to indicate level of completeness)
 
 > When developing a design document for a new task, it should contain a detailed design proposal demonstrating how it will solve the goals outlined below.  

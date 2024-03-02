@@ -1,3 +1,10 @@
+---
+layout: default
+title: inclusive-linting
+nav_order: 1
+has_children: false
+---
+
 # Inclusive Linting
 
 As software professionals we should strive to promote an inclusive work environment, which naturally extends to the code and documentation we write. It's important to keep the use of inclusive language consistent across an entire project or repository.

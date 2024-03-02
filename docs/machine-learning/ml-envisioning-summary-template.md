@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-envisioning-summary-template
+nav_order: 1
+has_children: false
+---
+
 # Generic Envisioning Summary
 
 ## Purpose of this template

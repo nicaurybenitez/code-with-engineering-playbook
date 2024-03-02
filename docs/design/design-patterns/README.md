@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Design Patterns
 
 The design patterns section recommends patterns of software and architecture design.

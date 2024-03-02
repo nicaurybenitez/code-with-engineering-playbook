@@ -1,3 +1,10 @@
+---
+layout: default
+title: languages
+nav_order: 1
+has_children: false
+---
+
 # Languages
 
 ## Markdown

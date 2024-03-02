@@ -1,3 +1,10 @@
+---
+layout: default
+title: threat-modelling-example
+nav_order: 1
+has_children: false
+---
+
 # Overview
 
 This document covers the threat models for a sample project which takes video frames from video camera and process these frames on IoTEdge device and send them to Azure Cognitive Service to get the audio output.  

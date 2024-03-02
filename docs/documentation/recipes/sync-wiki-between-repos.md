@@ -1,3 +1,10 @@
+---
+layout: default
+title: sync-wiki-between-repos
+nav_order: 1
+has_children: false
+---
+
 # How to Sync a Wiki between Repositories
 
 This is a quick guide to mirroring a Project Wiki to another repository.

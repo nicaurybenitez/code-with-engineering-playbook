@@ -1,3 +1,10 @@
+---
+layout: default
+title: pull-request-template
+nav_order: 1
+has_children: false
+---
+
 # [Work Item ID](./link-to-the-work-item)
 
 For more information about how to contribute to this repo, visit this [page](https://github.com/microsoft/code-with-engineering-playbook/blob/main/CONTRIBUTING.md)

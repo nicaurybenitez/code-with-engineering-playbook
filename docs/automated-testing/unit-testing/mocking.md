@@ -1,3 +1,10 @@
+---
+layout: default
+title: mocking
+nav_order: 1
+has_children: false
+---
+
 # Mocking in Unit Tests
 
 One of the key components of writing unit tests is to remove the dependencies your system has and replacing it with an

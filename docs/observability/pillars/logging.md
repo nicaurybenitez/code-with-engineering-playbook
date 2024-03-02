@@ -1,3 +1,10 @@
+---
+layout: default
+title: logging
+nav_order: 1
+has_children: false
+---
+
 # Logging
 
 ## Overview

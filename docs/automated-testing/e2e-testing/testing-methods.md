@@ -1,3 +1,10 @@
+---
+layout: default
+title: testing-methods
+nav_order: 1
+has_children: false
+---
+
 # E2E Testing Methods
 
 ## Horizontal Test

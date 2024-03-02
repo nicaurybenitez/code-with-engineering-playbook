@@ -1,3 +1,10 @@
+---
+layout: default
+title: external-feedback
+nav_order: 1
+has_children: false
+---
+
 # External Feedback
 
 Various stakeholders can provide feedback to the working product during a project, beyond any formal

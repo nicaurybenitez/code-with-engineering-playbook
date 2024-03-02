@@ -1,3 +1,10 @@
+---
+layout: default
+title: recommended-technologies
+nav_order: 1
+has_children: false
+---
+
 # Recommended Technologies
 
 The purpose of this page is to review the commonly selected technology options when developing user interface applications. To reiterate from the general guidance section:

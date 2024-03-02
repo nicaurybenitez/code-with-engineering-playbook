@@ -1,3 +1,10 @@
+---
+layout: default
+title: git-lfs-and-vfs
+nav_order: 1
+has_children: false
+---
+
 # Using Git LFS and VFS for Git introduction
 
 **Git LFS** and **VFS for Git** are solutions for using Git with (large) binary files and large source trees.

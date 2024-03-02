@@ -1,3 +1,10 @@
+---
+layout: default
+title: KubernetesDashboards
+nav_order: 1
+has_children: false
+---
+
 # Kubernetes UI Dashboards
 
 This document covers the options and benefits of various Kubernetes UI Dashboards which are useful tools for monitoring and debugging your application on Kubernetes Clusters. It allows the management of applications running in the cluster, debug them and manage the cluster all through these dashboards.

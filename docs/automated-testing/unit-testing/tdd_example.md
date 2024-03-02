@@ -1,3 +1,10 @@
+---
+layout: default
+title: tdd_example
+nav_order: 1
+has_children: false
+---
+
 # Test-Driven Development Example
 
 With this method, rather than writing all your tests up front, you write one test at a time and then switch to write the

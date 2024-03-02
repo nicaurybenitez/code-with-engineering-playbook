@@ -1,3 +1,10 @@
+---
+layout: default
+title: wikis
+nav_order: 1
+has_children: false
+---
+
 # Wikis
 
 Use a **team project wiki** to share information with other team members. When you provision a wiki from scratch, a new **Git repository** stores your [Markdown](./languages.md#markdown) files, images, attachments, and sequence of pages. This wiki supports **collaborative editing** of its content and structure.

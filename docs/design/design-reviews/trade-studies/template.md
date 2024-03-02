@@ -1,3 +1,10 @@
+---
+layout: default
+title: template
+nav_order: 1
+has_children: false
+---
+
 # Trade Study Template
 
 This generic template can be used for any situation where we have a set of requirements that can be satisfied

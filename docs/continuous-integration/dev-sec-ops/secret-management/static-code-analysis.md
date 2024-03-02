@@ -1,3 +1,10 @@
+---
+layout: default
+title: static-code-analysis
+nav_order: 1
+has_children: false
+---
+
 # Static Code Analysis
 
 Static code analysis is a method of detecting security issues by examining the source code of the application.

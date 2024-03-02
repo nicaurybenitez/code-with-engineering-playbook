@@ -1,3 +1,10 @@
+---
+layout: default
+title: tracing
+nav_order: 1
+has_children: false
+---
+
 # Tracing
 
 ## Overview

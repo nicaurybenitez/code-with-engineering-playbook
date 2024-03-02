@@ -1,3 +1,10 @@
+---
+layout: default
+title: data-heavy-design-guidance
+nav_order: 1
+has_children: false
+---
+
 # Data and DataOps Fundamentals
 
 Most projects involve some type of data storage, data processing and data ops. For these projects, as with all projects, we follow the general guidelines laid out in other sections around security, testing, observability, CI/CD etc.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: recipes-observability
+nav_order: 1
+has_children: false
+---
+
 # Recipes
 
 ## Application Insights/ASP.NET

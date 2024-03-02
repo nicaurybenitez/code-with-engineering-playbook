@@ -1,3 +1,10 @@
+---
+layout: default
+title: observability-pipelines
+nav_order: 1
+has_children: false
+---
+
 # Observability of CI/CD Pipelines
 
 With increasing complexity to delivery pipelines, it is very important

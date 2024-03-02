@@ -1,3 +1,10 @@
+---
+layout: default
+title: ENG-FUNDAMENTALS-CHECKLIST
+nav_order: 1
+has_children: false
+---
+
 # Engineering Fundamentals Checklist
 
 This checklist helps to ensure that our projects meet our Engineering Fundamentals.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: GitOps
+nav_order: 1
+has_children: false
+---
+
 # Trade Study: GitOps
 
 Conducted by: Tess and Jeff

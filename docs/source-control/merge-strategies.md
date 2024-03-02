@@ -1,3 +1,10 @@
+---
+layout: default
+title: merge-strategies
+nav_order: 1
+has_children: false
+---
+
 # Merge strategies
 
 Agree if you want a linear or non-linear commit history. There are pros and cons to both approaches:

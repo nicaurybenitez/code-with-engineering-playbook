@@ -1,3 +1,10 @@
+---
+layout: default
+title: copilots
+nav_order: 1
+has_children: false
+---
+
 # Copilots
 
 There are a number of AI tools that can improve the developer experience. This article will discuss tooling that is available as well as advice on when it might be appropriate to use such tooling.

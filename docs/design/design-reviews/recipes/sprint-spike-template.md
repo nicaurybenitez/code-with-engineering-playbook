@@ -1,3 +1,10 @@
+---
+layout: default
+title: sprint-spike-template
+nav_order: 1
+has_children: false
+---
+
 # Spike: {Name}
 
 - **Conducted by:** {Names and at least one email address for follow-up questions}

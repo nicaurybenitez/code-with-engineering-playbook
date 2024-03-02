@@ -1,3 +1,10 @@
+---
+layout: default
+title: milestone-epic-design-review-recipe
+nav_order: 1
+has_children: false
+---
+
 # Milestone / Epic Design Review Recipe
 
 ## Why is this valuable?

@@ -1,3 +1,10 @@
+---
+layout: default
+title: alerting
+nav_order: 1
+has_children: false
+---
+
 # Guidance for Alerting
 
 One of the goals of building highly observable systems is to provide valuable insight into the behavior of the application. Observable systems allow problems to be identified and surfaced through alerts before end users are impacted.

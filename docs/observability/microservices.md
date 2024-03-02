@@ -1,3 +1,10 @@
+---
+layout: default
+title: microservices
+nav_order: 1
+has_children: false
+---
+
 # Observability in Microservices
 
 Microservices is a very popular software architecture, where the application is arranged as a collection of loosely coupled services. Some of those services can be written in different languages by different teams.

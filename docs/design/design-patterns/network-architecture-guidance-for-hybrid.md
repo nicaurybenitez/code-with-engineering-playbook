@@ -1,3 +1,10 @@
+---
+layout: default
+title: network-architecture-guidance-for-hybrid
+nav_order: 1
+has_children: false
+---
+
 # Network Architecture Guidance for Hybrid
 
 The following are best practices around how to design and configure resources, used for Hybrid and Multi-Cloud environments.

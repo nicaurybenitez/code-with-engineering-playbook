@@ -1,3 +1,10 @@
+---
+layout: default
+title: secret-rotation-in-pods
+nav_order: 1
+has_children: false
+---
+
 # Secrets rotation of environment variables and mounted secrets in pods
 
 This document covers some ways you can do secret rotation with environment variables and mounted secrets in Kubernetes pods

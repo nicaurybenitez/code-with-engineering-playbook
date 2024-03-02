@@ -1,3 +1,10 @@
+---
+layout: default
+title: distributed-system-design-reference
+nav_order: 1
+has_children: false
+---
+
 # Distributed System Design Reference
 
 Distributed systems introduce new and interesting problems that need addressing.

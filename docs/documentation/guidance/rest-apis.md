@@ -1,3 +1,10 @@
+---
+layout: default
+title: rest-apis
+nav_order: 1
+has_children: false
+---
+
 # REST APIs
 
 When creating [REST APIs](https://en.wikipedia.org/wiki/Representational_state_transfer), you can leverage the [OpenAPI-Specification (OAI)](https://github.com/OAI/OpenAPI-Specification/) (originally known as the Swagger Specification) to describe them:

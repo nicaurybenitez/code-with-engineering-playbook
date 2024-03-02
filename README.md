@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # ISE Engineering Fundamentals Customer/Partner Engineering Playbook
 
 An engineer or data scientist working on an [ISE](docs/ISE.md) project...

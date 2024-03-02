@@ -1,3 +1,10 @@
+---
+layout: default
+title: high-level-design-recipe
+nav_order: 1
+has_children: false
+---
+
 # High Level / Game Plan Design Recipe
 
 ## Why is this valuable?

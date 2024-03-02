@@ -1,3 +1,10 @@
+---
+layout: default
+title: SECURITY
+nav_order: 1
+has_children: false
+---
+
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.7 BLOCK -->
 
 # Security

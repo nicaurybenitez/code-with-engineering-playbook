@@ -1,3 +1,10 @@
+---
+layout: default
+title: go
+nav_order: 1
+has_children: false
+---
+
 # Go Code Reviews
 
 ## Style Guide

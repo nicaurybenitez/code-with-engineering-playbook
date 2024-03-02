@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-project-management
+nav_order: 1
+has_children: false
+---
+
 # Agile Development Considerations for ML Projects
 
 ## Overview

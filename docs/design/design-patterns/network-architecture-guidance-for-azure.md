@@ -1,3 +1,10 @@
+---
+layout: default
+title: network-architecture-guidance-for-azure
+nav_order: 1
+has_children: false
+---
+
 # Network Architecture Guidance for Azure
 The following are some best practices when setting up and working with network resources in Azure Cloud environments.
 

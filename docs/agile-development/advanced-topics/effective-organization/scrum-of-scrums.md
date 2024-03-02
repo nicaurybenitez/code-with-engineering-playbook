@@ -1,3 +1,10 @@
+---
+layout: default
+title: scrum-of-scrums
+nav_order: 1
+has_children: false
+---
+
 # Scrum of Scrums
 
 Scrum of scrums is a technique used to scale Scrum to a larger group working towards the same project goal. In Scrum, we consider a team being too big when going over 10-12 individuals. This should be decided on a case by case basis. If the project is set up in multiple work streams that contain a fixed group of people and a common [stand-up](../../core-expectations/README.md) meeting is slowing down productivity: scrum of scrums should be considered. The team would identify the different subgroups that would act as a separate scrum teams with their own backlog, board and [stand-up](../../core-expectations/README.md).

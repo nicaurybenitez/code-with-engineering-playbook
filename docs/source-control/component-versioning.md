@@ -1,3 +1,10 @@
+---
+layout: default
+title: component-versioning
+nav_order: 1
+has_children: false
+---
+
 # Component Versioning
 
 ## Goal
@@ -122,11 +129,11 @@ Here is an example .releaserc file which contains the configuration for:
       "master",
       {
         "name": "feature/*",
-        "prerelease": "beta-${name.replace(/\\//g, '-').replace(/_/g, '-')}"
+        "prerelease": "beta-${name.replace(/\//g, '-').replace(/_/g, '-')}"
       },
       {
         "name": "[a-zA-Z0-9_]+/[a-zA-Z0-9-_]+",
-        "prerelease": "dev-${name.replace(/\\//g, '-').replace(/_/g, '--')}"
+        "prerelease": "dev-${name.replace(/\//g, '-').replace(/_/g, '--')}"
       }
     ],
     "plugins": [

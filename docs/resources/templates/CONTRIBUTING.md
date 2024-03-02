@@ -1,3 +1,10 @@
+---
+layout: default
+title: CONTRIBUTING
+nav_order: 1
+has_children: false
+---
+
 # Contributing
 
 We love pull requests from everyone. By participating in this project, you

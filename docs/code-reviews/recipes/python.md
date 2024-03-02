@@ -1,3 +1,10 @@
+---
+layout: default
+title: python
+nav_order: 1
+has_children: false
+---
+
 # Python Code Reviews
 
 ## Style Guide

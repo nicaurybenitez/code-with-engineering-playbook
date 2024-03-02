@@ -1,3 +1,10 @@
+---
+layout: default
+title: sequenceDiagrams
+nav_order: 1
+has_children: false
+---
+
 # Sequence Diagrams
 
 ## Purpose

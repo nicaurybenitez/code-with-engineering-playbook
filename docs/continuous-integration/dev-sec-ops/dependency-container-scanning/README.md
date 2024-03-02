@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Dependency and Container Scanning
 
 Dependency and Container scanning is performed in order to search for vulnerabilities in operating systems, language and application packages.

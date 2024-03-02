@@ -1,3 +1,10 @@
+---
+layout: default
+title: code
+nav_order: 1
+has_children: false
+---
+
 # Code
 
 You might have heard more than once that **you should write self-documenting code**. This doesn't mean that you should never comment your code.

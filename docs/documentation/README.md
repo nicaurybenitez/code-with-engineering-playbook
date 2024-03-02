@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Documentation
 
 Every software development project requires documentation. [Agile Software Development](https://agilemanifesto.org/) values *working software over comprehensive documentation*. Still, projects should include the key information needed to understand the development and the use of the generated software.

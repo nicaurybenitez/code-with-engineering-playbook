@@ -1,3 +1,10 @@
+---
+layout: default
+title: definition-of-done
+nav_order: 1
+has_children: false
+---
+
 # Definition of Done
 
 To close a user story, a sprint, or a milestone it is important to verify that the tasks are complete.

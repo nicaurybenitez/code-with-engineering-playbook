@@ -1,3 +1,10 @@
+---
+layout: default
+title: technical-spike
+nav_order: 1
+has_children: false
+---
+
 # Technical Spike
 
 From [Wikipedia](<https://en.wikipedia.org/wiki/Spike_(software_development)>)...

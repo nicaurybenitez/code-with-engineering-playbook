@@ -1,3 +1,10 @@
+---
+layout: default
+title: observability-databricks
+nav_order: 1
+has_children: false
+---
+
 # Observability for Azure Databricks
 
 ## Overview

@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-problem-formulation-envisioning
+nav_order: 1
+has_children: false
+---
+
 # Envisioning and Problem Formulation
 
 Before beginning a data science investigation, we need to define a problem statement which the data science team can explore; this problem statement can have a significant influence on whether the project is likely to be successful.

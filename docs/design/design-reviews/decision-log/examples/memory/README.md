@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Memory
 
 These examples were taken from the Memory project, an internal tool for tracking an individual's accomplishments.

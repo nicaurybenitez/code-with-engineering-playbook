@@ -1,3 +1,10 @@
+---
+layout: default
+title: preferred-diagram-tooling
+nav_order: 1
+has_children: false
+---
+
 # Preferred Diagram Tooling
 
 At each stage in the engagement process, diagrams are a key part of the design review.

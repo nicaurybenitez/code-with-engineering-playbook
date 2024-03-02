@@ -1,3 +1,10 @@
+---
+layout: default
+title: fake-services-inner-loop
+nav_order: 1
+has_children: false
+---
+
 # Fake Services Inner Dev Loop
 
 ## Introduction

@@ -1,3 +1,10 @@
+---
+layout: default
+title: toggle-vnet-dev-environment
+nav_order: 1
+has_children: false
+---
+
 # Toggle VNet on and off for production and development environment
 
 ## Problem Statement

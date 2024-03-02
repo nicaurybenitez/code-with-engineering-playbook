@@ -1,3 +1,10 @@
+---
+layout: default
+title: Environments
+nav_order: 1
+has_children: false
+---
+
 # Application Deployment
 
 The Memory application leverages [Azure DevOps](https://learn.microsoft.com/en-gb/azure/devops/index?view=azure-devops) for work item tracking as well as continuous integration (CI) and continuous deployment (CD).

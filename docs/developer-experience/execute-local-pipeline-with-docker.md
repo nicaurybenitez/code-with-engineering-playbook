@@ -1,3 +1,10 @@
+---
+layout: default
+title: execute-local-pipeline-with-docker
+nav_order: 1
+has_children: false
+---
+
 # Executing pipelines locally
 
 ## Abstract

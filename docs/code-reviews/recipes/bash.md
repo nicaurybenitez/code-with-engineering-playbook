@@ -1,3 +1,10 @@
+---
+layout: default
+title: bash
+nav_order: 1
+has_children: false
+---
+
 # Bash Code Reviews
 
 ## Style Guide

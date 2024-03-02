@@ -1,3 +1,10 @@
+---
+layout: default
+title: work-items
+nav_order: 1
+has_children: false
+---
+
 # Work Items
 
 While many teams can work with a flat list of items, sometimes it helps to group related items into a hierarchical structure. You can use portfolio backlogs to bring more order to your backlog.

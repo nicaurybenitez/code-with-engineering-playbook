@@ -1,3 +1,10 @@
+---
+layout: default
+title: feature-story-design-review-template
+nav_order: 1
+has_children: false
+---
+
 # Your Feature or Story Design Title Here (prefix with DRAFT/WIP to indicate level of completeness)
 
 > Does the feature re-use or extend existing patterns / interfaces that have already been established for the project?

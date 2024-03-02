@@ -1,3 +1,10 @@
+---
+layout: default
+title: tools
+nav_order: 1
+has_children: false
+---
+
 # Code Review Tools
 
 ## Customize ADO

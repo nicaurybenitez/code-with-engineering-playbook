@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Trade Studies
 
 Trade studies are a tool for selecting the best option out of several possible options for a given problem (for example: compute, storage).

@@ -1,3 +1,10 @@
+---
+layout: default
+title: ml-observability
+nav_order: 1
+has_children: false
+---
+
 # Observability in Machine Learning
 
 Development process of software system with machine learning component is more complex

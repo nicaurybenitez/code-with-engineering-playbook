@@ -1,3 +1,10 @@
+---
+layout: default
+title: credential_scanning
+nav_order: 1
+has_children: false
+---
+
 # Credential Scanning
 
 Credential scanning is the practice of automatically inspecting a project to ensure that no secrets are included in the project's source code. Secrets include database passwords, storage connection strings, admin logins, service principals, etc.

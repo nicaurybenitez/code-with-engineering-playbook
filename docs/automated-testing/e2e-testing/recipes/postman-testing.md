@@ -1,3 +1,10 @@
+---
+layout: default
+title: postman-testing
+nav_order: 1
+has_children: false
+---
+
 # Postman Testing
 
 This purpose of this document is to provide guidance on how to use Newman in your CI/CD pipeline to run End-to-end (E2E) tests defined in Postman Collections while following security best practices.
@@ -182,7 +189,7 @@ Steps may look like the following:
 2. Locally use Newman to validate tests are working as intended
 
     ```powershell
-    newman run tests\e2e_Postman_collection.json -e qa.postman_environment.json
+    newman run tests2e_Postman_collection.json -e qa.postman_environment.json
     ```
 
 3. Build a script that automatically executes Postman Test assertions via Newman and Azure CLI.
@@ -213,7 +220,8 @@ Steps may look like the following:
     # 8. install Newman
     npm install --save-dev newman
     # 9. run automated E2E tests via Newman
-    node_modules\.bin\newman run tests\e2e_Postman_collection.json -e $env.postman_environment.json
+    node_modules\.bin
+ewman run tests2e_Postman_collection.json -e $env.postman_environment.json
     ```
 
 4. Create a yaml file and define a step that will run your test script. (ex. A yaml file targeting Azure Devops that runs a Powershell script.)

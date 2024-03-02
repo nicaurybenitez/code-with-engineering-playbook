@@ -1,3 +1,10 @@
+---
+layout: default
+title: best-practices
+nav_order: 1
+has_children: false
+---
+
 # Recommended Practices
 
 1. **Correlation Id**: Include unique identifier at the start of the interaction to tie down aggregated data from various system components and provide a holistic view. Read more guidelines about using [correlation id](correlation-id.md).

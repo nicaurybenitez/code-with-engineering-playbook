@@ -1,3 +1,10 @@
+---
+layout: default
+title: onboarding-guide-template
+nav_order: 1
+has_children: false
+---
+
 # Onboarding Guide Template
 
 When developing an onboarding document for a team, it should contain details of engagement scope, team processes, codebase, coding standards, team agreements, software requirements and setup details. The onboarding guide can be used as an index to project specific content if it already exists elsewhere. Allowing this guide to be utilized as a foundation with the links will help keep the guide concise and effective.

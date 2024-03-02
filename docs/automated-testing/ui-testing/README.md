@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # User Interface Testing
 
 This section is primarily geared towards web-based UIs, but the guidance is similar for mobile and OS based applications.  

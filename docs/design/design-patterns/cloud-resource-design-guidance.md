@@ -1,3 +1,10 @@
+---
+layout: default
+title: cloud-resource-design-guidance
+nav_order: 1
+has_children: false
+---
+
 # Cloud Resource Design Guidance
 
 As cloud usage scales, considerations for subscription design, management groups, and resource naming/tagging conventions have an impact on governance, operations management, and adoption patterns.

@@ -1,3 +1,10 @@
+---
+layout: default
+title: engineering-feasibility-spikes
+nav_order: 1
+has_children: false
+---
+
 # Engineering Feasibility Spikes: identifying and mitigating risk
 
 ## Introduction

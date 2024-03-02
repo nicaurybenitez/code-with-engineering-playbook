@@ -1,3 +1,10 @@
+---
+layout: default
+title: azure-devops-secret-management-per-branch
+nav_order: 1
+has_children: false
+---
+
 # Azure DevOps: Managing Settings on a Per-Branch Basis
 
 When using [Azure DevOps Pipelines](https://azure.microsoft.com/en-us/services/devops/pipelines/) for CI/CD, it's convenient to leverage the built-in [pipeline variables](https://learn.microsoft.com/en-us/azure/devops/pipelines/process/variables) for [secrets management](./README.md), but using pipeline variables for secrets management has its disadvantages:

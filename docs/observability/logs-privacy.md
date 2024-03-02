@@ -1,3 +1,10 @@
+---
+layout: default
+title: logs-privacy
+nav_order: 1
+has_children: false
+---
+
 # Guidance for Privacy
 
 ## Overview

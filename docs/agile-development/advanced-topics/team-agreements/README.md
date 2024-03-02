@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Team Agreements
 
 * [Definition of Done](./definition-of-done.md)

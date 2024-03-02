@@ -1,3 +1,10 @@
+---
+layout: default
+title: why-collaboration
+nav_order: 1
+has_children: false
+---
+
 
 # Why Collaboration
 

@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Secret management with GitOps
 
 GitOps projects have git repositories in the center that are considered a source of truth for managing both infrastructure and application. This infrastructure and application will require secured access to other resources of the system through secrets.

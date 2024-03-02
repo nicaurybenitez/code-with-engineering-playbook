@@ -1,3 +1,10 @@
+---
+layout: default
+title: README
+nav_order: 1
+has_children: false
+---
+
 # Design Review Recipes
 
 Design reviews come in all shapes and sizes. There are also different items to consider when creating a design at different stages during an engagement

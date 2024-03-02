@@ -1,3 +1,10 @@
+---
+layout: default
+title: CONTRIBUTING
+nav_order: 1
+has_children: false
+---
+
 # Contributing
 
 Demonstrating Engineering Fundamentals is core to what we do in ISE and is one of the primary values we bring to our customers, helping them to level up while collaborating on their business scenarios.
